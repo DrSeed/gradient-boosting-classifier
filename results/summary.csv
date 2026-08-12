@@ -1,0 +1,4 @@
+model,test_accuracy
+Logistic,0.756
+Random forest,0.833
+Gradient boosting,0.833
